@@ -4,6 +4,10 @@
 	"description": "",
 	"version": "0.0.1",
 	"publisher": "aws-dotnet-guy",
+	"repository": {
+		"url": "https://github.com/mandarbansod/vscode-cloudformation-template",
+		"type": "github"
+	},
 	"author": {
 		"name": "Mandar"
 	},
